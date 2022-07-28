@@ -1,0 +1,3 @@
+id,callsign,portable,qso_at,sent_rst,received_rst,sent_qth,received_qth,received_qra,frequency,mode,remarks,card_remarks,is_qsl_sent
+9960102,MA7FVA,,2022-07-11 06:28:00 UTC,599,599,JCC2102: 四日市 - Yokkaichi (三重),JCC1308: 所沢 - Tokorozawa (埼玉),,7MHz,CW,,,false
+960102,JA7FVA,,2022-07-11 06:28:00 UTC,599,599,JCC2102: 四日市 - Yokkaichi (三重),JCC1308: 所沢 - Tokorozawa (埼玉),,7MHz,CW,,,false

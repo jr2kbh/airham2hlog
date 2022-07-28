@@ -1,0 +1,2 @@
+id,callsign,portable,qso_at,sent_rst,received_rst,sent_qth,received_qth,received_qra,frequency,mode,remarks,card_remarks,is_qsl_sent
+9954509,JA7FAV,,2022-07-11 15:28:00 +0900,599,599,JCC2102: 四日市 - Yokkaichi (三重),,,7MHz,CW,%/2 四日市市移動%,"",false

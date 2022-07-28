@@ -1,0 +1,5 @@
+id,callsign,portable,qso_at,sent_rst,received_rst,sent_qth,received_qth,received_qra,frequency,mode,remarks,card_remarks,is_qsl_sent
+9962215,7M2VPR,,2022-07-22 00:31:22 UTC,599,599,JCC2102: 四日市 - Yokkaichi (三重),,hiro,7MHz,CW,/qrp,,false
+9962213,JL4BUX,,2022-07-22 00:22:04 UTC,599,599,JCC2102: 四日市 - Yokkaichi (三重),,,7MHz,CW,,,false
+9962059,JS1DEH,,2022-07-21 00:46:00 UTC,599,599,JCC2102: 四日市 - Yokkaichi (三重),鹿沼市,,7MHz,CW,,,false
+9960102,JA7FVA,,2022-07-11 06:28:00 UTC,599,599,JCC2102: 四日市 - Yokkaichi (三重),"",,7MHz,CW,,,false
